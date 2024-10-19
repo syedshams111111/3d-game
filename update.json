@@ -1,0 +1,13 @@
+{
+  "updateToken": "",
+  "update": true,
+  "isCritical": false,
+  "details": {
+    "information": "",
+    "files": [],
+    "createNewFiles": false,
+    "fileChanges": [],
+    "filesToCreate": [],
+    "newFilesToEdit": []
+  }
+}
